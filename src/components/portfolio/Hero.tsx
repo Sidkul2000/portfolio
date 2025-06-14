@@ -51,11 +51,11 @@ const Hero = () => {
           </h1>
           
           <div className="text-xl md:text-2xl text-muted-foreground mb-8 overflow-hidden">
-            <p className="animate-fade-in delay-500">AI Engineer @ Seawolf AI | NYU ALum | MS in Computer Science</p>
+            <p className="animate-fade-in delay-500">AI Engineer @ Seawolf AI | NYU Alum | MS in Computer Science</p>
           </div>
           
           <p className={`text-lg mb-12 max-w-2xl mx-auto transition-all duration-1000 delay-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-5'}`}>
-            Building Scalable AI Solutions with LLMs, RAG, and Real-World Impact.
+            Building Scalable AI Solutions with LLMs and RAG for Real-World Impact.
             <br></br>
             From Codellama to Cloud — Engineering the Future of Intelligent Systems.
           </p>
