@@ -45,7 +45,7 @@ const About = () => {
           <div className={`transition-all duration-1000 delay-300 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-10'}`}>
             <div className="relative">
               <img 
-                src="/img/sid-profile.jpeg"
+                src="./img/sid-profile.jpeg"
                 alt="Profile"
                 className="rounded-lg shadow-2xl hover:shadow-3xl transition-shadow duration-300"
               />
